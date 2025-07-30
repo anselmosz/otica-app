@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Projeto - Otica App</h1>
+      <h1>Projeto - Ótica App</h1>
     </div>
   );
 }
